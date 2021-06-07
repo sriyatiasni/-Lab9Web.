@@ -28,6 +28,7 @@
         <a href="about.php">Tentang</a>
         <a href="kontak.php">Kontak</a>
         </nav>
+
 ## LANGKAH 4
 ## Buat file baru dengan nama footer.php pada folder (d:\xampp\htdocs\lab9_php_modular)
       <footer>
@@ -36,7 +37,9 @@
     </div>
 </body>
 </html>
-![2 2](https://user-images.githubusercontent.com/56379905/121055507-8359b800-c7e7-11eb-9279-b1a94996b76f.png)
+![2](https://user-images.githubusercontent.com/56379905/121066482-257f9d00-c7f4-11eb-8013-6adf27a4b457.png)
+
+
 ## LANGKAH 5
 ## Buat file baru dengan nama home.php pada folder (d:\xampp\htdocs\lab9_php_modular)
 <?php require('header.php'); ?>
